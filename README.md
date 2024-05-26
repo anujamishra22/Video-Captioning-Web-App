@@ -1,5 +1,5 @@
 # Video-Captioning-Web-App
-Allow the user to enter a URL to a hosted video Provide the user a text box to enter their captions. Provide the user a mechanism to provide timestamps for when the captions should be displayed .Display the video with captions on it. Let the user pause/play it
+Web application that allows users to add caption to a video. The application has the capability to input a video URL, a text box for caption input, a mechanism to specify timestamps for the caption, and the ability to display the video with the caption overlayed. The user can also able to control the video playback with pause and play.
 
 Instruction to run locally 
 
@@ -17,8 +17,6 @@ Enter this URL into the "Video URL" input field and click "Load Video" to see if
 
 
 Technical Decisions
-
- Technology Stack:
 
  HTML: Used for the structure and layout of the web application.
  CSS: Applied for styling and improving the visual appearance of the application.
