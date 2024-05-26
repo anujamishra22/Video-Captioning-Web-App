@@ -36,7 +36,7 @@ Future Enhancements:Given more time, the following improvements could be made:
 
   1. Caption Management:
   Feature: Add functionality to edit and delete existing captions.
-  Provides users with more control over their captions, improving the overall usability of the application.
+  Benefit: Provides users with more control over their captions, improving the overall usability of the application.
 
   2. Persisting Data:
   Feature: Implement local storage or backend integration to save and load captions.
