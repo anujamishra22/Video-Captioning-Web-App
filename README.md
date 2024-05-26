@@ -7,7 +7,9 @@ Instruction to run locally
 
 2.Open index.html
 
-3.Testing with a Known Video URL-If you don't have a specific video URL, you can use the following sample video URL to test the application: https://www.w3schools.com/html/mov_bbb.mp4
+3.Testing with a Known Video URL-If you don't have a specific video URL, you can use the following sample video URL to test the application:
+
+     https://www.w3schools.com/html/mov_bbb.mp4
 
 Enter this URL into the "Video URL" input field and click "Load Video" to see if the video loads correctly.
 
@@ -25,7 +27,8 @@ Technical Decisions
 
 
 User Experience Considerations:
-The interface is kept simple and intuitive with clear labels and buttons to guide the user through the process of loading a video and adding captions.
+The interface is kept simple and intuitive with clear labels and buttons to guide the user through the process of loading a video and adding captions.The interface is designed to be intuitive and easy to use, with clear labels and instructions. Users can quickly input a video URL, add captions, and control video playback without confusion.
+Users receive immediate feedback when adding captions, allowing them to see how their captions will appear on the video in real-time. This enhances the user experience and encourages engagement.
 
 
 
