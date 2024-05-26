@@ -19,6 +19,7 @@ Trade-off: Decided to implement basic features (video loading, caption adding, a
 Implication: Advanced features like editing captions, removing captions, and saving/loading caption data are not included.
 
 Future Enhancements
+
 Given more time, the following improvements could be made:
 
 Caption Management:
