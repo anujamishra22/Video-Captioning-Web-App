@@ -16,9 +16,7 @@ Enter this URL into the "Video URL" input field and click "Load Video" to see if
 
 
 
-Technical Decisions
-
- HTML: Used for the structure and layout of the web application.
+Technical Decisions : HTML: Used for the structure and layout of the web application.
  CSS: Applied for styling and improving the visual appearance of the application.
  JavaScript: Implemented the logic for loading videos, adding captions, and displaying captions at the correct timestamps.
 
