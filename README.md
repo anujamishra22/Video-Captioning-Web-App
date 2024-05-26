@@ -9,7 +9,7 @@ Instruction to run locally
 
 3.Testing with a Known Video URL-If you don't have a specific video URL, you can use the following sample video URL to test the application:
 
-     https://www.w3schools.com/html/mov_bbb.mp4
+ https://www.w3schools.com/html/mov_bbb.mp4
 
 Enter this URL into the "Video URL" input field and click "Load Video" to see if the video loads correctly.
 
@@ -37,11 +37,11 @@ Trade-offs:Decided to implement basic features (video loading, caption adding, a
 
 Future Enhancements:Given more time, the following improvements could be made:
 
-  Caption Management:
+  1. Caption Management:
   Feature: Add functionality to edit and delete existing captions.
   Provides users with more control over their captions, improving the overall usability of the application.
 
-  Persisting Data:
+  2. Persisting Data:
   Feature: Implement local storage or backend integration to save and load captions.
   Benefit: Allows users to save their progress and continue later, enhancing the app's practicality.
 
