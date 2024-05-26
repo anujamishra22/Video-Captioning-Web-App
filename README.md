@@ -12,6 +12,15 @@ https://www.w3schools.com/html/mov_bbb.mp4
 
 Enter this URL into the "Video URL" input field and click "Load Video" to see if the video loads correctly.
 
+
+Technical Decisions
+
+Technology Stack:
+
+HTML: Used for the structure and layout of the web application.
+CSS: Applied for styling and improving the visual appearance of the application.
+JavaScript: Implemented the logic for loading videos, adding captions, and displaying captions at the correct timestamps.
+
 Trade-offs
 
 Feature Set vs. Simplicity:
