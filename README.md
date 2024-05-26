@@ -31,16 +31,11 @@ The interface is kept simple and intuitive with clear labels and buttons to guid
 
 
 
-Trade-offs
-
- Decided to implement basic features (video loading, caption adding, and displaying) to keep the application simple and within the given time constraint. Advanced features like editing 
- captions, removing captions, and saving/loading caption data are not included.
+Trade-offs:Decided to implement basic features (video loading, caption adding, and displaying) to keep the application simple and within the given time constraint. Advanced features like editing  captions, removing captions, and saving/loading caption data are not included.
 
 
 
-Future Enhancements
-
-  Given more time, the following improvements could be made:
+Future Enhancements:Given more time, the following improvements could be made:
 
   Caption Management:
   Feature: Add functionality to edit and delete existing captions.
