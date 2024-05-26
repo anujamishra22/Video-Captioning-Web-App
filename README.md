@@ -26,8 +26,7 @@ Technical Decisions
 
 
 
-User Experience Considerations
-
+User Experience Considerations:
 The interface is kept simple and intuitive with clear labels and buttons to guide the user through the process of loading a video and adding captions.
 
 
@@ -44,12 +43,10 @@ Future Enhancements
   Given more time, the following improvements could be made:
 
   Caption Management:
-
   Feature: Add functionality to edit and delete existing captions.
   Provides users with more control over their captions, improving the overall usability of the application.
 
   Persisting Data:
-
   Feature: Implement local storage or backend integration to save and load captions.
   Benefit: Allows users to save their progress and continue later, enhancing the app's practicality.
 
