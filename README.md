@@ -12,4 +12,23 @@ https://www.w3schools.com/html/mov_bbb.mp4
 
 Enter this URL into the "Video URL" input field and click "Load Video" to see if the video loads correctly.
 
+Trade-offs
+
+Feature Set vs. Simplicity:
+Trade-off: Decided to implement basic features (video loading, caption adding, and displaying) to keep the application simple and within the given time constraint.
+Implication: Advanced features like editing captions, removing captions, and saving/loading caption data are not included.
+
+Future Enhancements
+Given more time, the following improvements could be made:
+
+Caption Management:
+
+Feature: Add functionality to edit and delete existing captions.
+Benefit: Provides users with more control over their captions, improving the overall usability of the application.
+
+Persisting Data:
+
+Feature: Implement local storage or backend integration to save and load captions.
+Benefit: Allows users to save their progress and continue later, enhancing the app's practicality.
+
 
